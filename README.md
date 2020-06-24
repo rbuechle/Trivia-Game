@@ -1,2 +1,11 @@
-# Trivia-Game
-Trivia game group project made with Knockout.js 
+# JavaScript-Trivia
+JavaScript trivia game created with Knockout.js 
+
+# Contributors 
+Joanna Brumfield 
+
+Becca Buechle
+
+Darius Dinkins
+
+Jason Cords
